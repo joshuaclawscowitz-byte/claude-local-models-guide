@@ -36,6 +36,7 @@ alone does not guarantee that every agent feature will work.
 
 ## Guides
 
+- [Runnable Python launcher: local endpoint or SSH](examples/README.md)
 - [Claude Code setup](docs/claude-code.md)
 - [Claude Desktop setup](docs/desktop.md)
 - [Context, compaction and save/reload](docs/continuity.md)

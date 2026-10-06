@@ -26,6 +26,9 @@ cloud models; those run remotely.
 
 ## Option 2: direct endpoint configuration
 
+For a runnable Python version with optional SSH forwarding and a connectivity
+check, see [the Python connection example](../examples/README.md).
+
 For local Ollama, replace `YOUR_SERVED_MODEL` with the installed model identifier:
 
 ```sh
